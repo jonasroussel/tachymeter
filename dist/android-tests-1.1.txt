@@ -1,0 +1,3 @@
+PASS: 14 Android integration assertions
+Screenshot: /storage/emulated/0/Android/data/app.tachymeter/files/speed-test.png
+

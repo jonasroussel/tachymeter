@@ -1,0 +1,6 @@
+PASS: foreground GNSS registered at 500 ms
+PASS: background GNSS unregistered, provider OFF
+PASS: location-disabled state and settings action
+PASS: first-run precise/while-using permission dialog inspected
+PASS: light and dark emulator layouts visually inspected
+APK installed successfully on Android 15 ARM64 emulator. Physical GNSS accuracy not measured.
